@@ -1,0 +1,18 @@
+LCD:
+moduł -> płytka
+VCC   -> VDD
+GND   -> GND
+DIN   -> PC3
+CLK   -> PB10
+CS    -> PB12
+DC    -> PB11
+RST   -> PB2
+
+
+JOY
+moduł -> płytka
+GND   -> GND
++5V   -> 3V3
+VRX   -> PA0
+VRY   -> PA1
+SW    -> PA10
